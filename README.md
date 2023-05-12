@@ -11,6 +11,4 @@
  
  <br>
  
-  ![Snake animation](https://github.com/Guaximinho/Guaximinho/blob/output/github-contribution-grid-snake.svg)
-
 </div>
